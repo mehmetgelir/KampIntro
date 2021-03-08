@@ -32,7 +32,7 @@ namespace Metotlar
             sepetManager.Ekle(urun1);
             sepetManager.Ekle(urun2);
 
-            sepetManager.Ekle2("Armut", "açıklama işte aq", 12);
+            sepetManager.Ekle2("Armut", "Açıklama", 12);
         }
     }
 }
